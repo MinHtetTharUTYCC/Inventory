@@ -81,5 +81,6 @@ fun InventoryNavHost(
                 onNavigateUp = { navController.navigateUp() }
             )
         }
+
     }
 }
