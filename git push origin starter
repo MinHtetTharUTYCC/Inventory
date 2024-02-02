@@ -1,0 +1,136 @@
+[33mcommit 2f24ea6997abf12984872f7d2b1c565df52f355f[m[33m ([m[1;36mHEAD -> [m[1;32mstarter[m[33m)[m
+Author: MinHtetTharUTYCC <minhtettharutycc@gmail.com>
+Date:   Fri Feb 2 07:37:46 2024 +0630
+
+    second commit
+
+[33mcommit 0ddd43f64186bba200371a00eb26d8fbc6e5f829[m
+Author: MinHtetTharUTYCC <minhtettharutycc@gmail.com>
+Date:   Fri Feb 2 05:21:24 2024 +0630
+
+    second commit
+
+[33mcommit b5e55ca0b6b5dc0ec503667f3a83a5a1997c7ed1[m[33m ([m[1;31mnew-origin/starter[m[33m)[m
+Author: MinHtetTharUTYCC <minhtettharutycc@gmail.com>
+Date:   Thu Feb 1 07:41:25 2024 +0630
+
+    first
+
+[33mcommit 4fd00772e32897fd3a94ffe77aa340bec722e717[m[33m ([m[1;31morigin/starter[m[33m)[m
+Author: Android Dev <androidedu@google.com>
+Date:   Fri Jul 21 09:10:59 2023 -0700
+
+    Starter Groovy to Kotlin DSL (#45)
+
+[33mcommit 9e6ebee4d0473fa604b958c197fadfea46e76857[m
+Author: Android dev <androidedu@google.com>
+Date:   Tue Jun 6 10:25:34 2023 -0700
+
+    Update ItemDetailsScreen.kt
+
+[33mcommit 79d11efefe215e722963412ac02f19dba367ca98[m
+Author: Android dev <androidedu@google.com>
+Date:   Thu Jun 1 17:20:20 2023 -0700
+
+    Update ItemEditViewModel.kt
+    
+    Feedback
+    
+    Update ItemDetailsScreen.kt
+
+[33mcommit e4230ca44946b891ca44efbf89ffd5faa6c57f3b[m
+Author: Android dev <androidedu@google.com>
+Date:   Thu Jun 1 17:20:20 2023 -0700
+
+    Update ItemEditViewModel.kt
+
+[33mcommit 4b554fa465d26c045ec0cab525e42be823cb3857[m
+Author: Android dev <androidedu@google.com>
+Date:   Wed May 24 21:09:24 2023 -0700
+
+    App code
+
+[33mcommit 054a669c78ba3b35cb71c1f511575240541f0db7[m
+Author: Android Dev <androidedu@google.com>
+Date:   Tue May 23 18:33:46 2023 -0700
+
+    App code (#24)
+
+[33mcommit d011fd1799aa5c7fb4cdbfc5c3067f1e54959d0d[m
+Author: Android Dev <testingilt567@gmail.com>
+Date:   Tue Mar 28 11:59:06 2023 -0700
+
+    Empty Compose M3 template (#23)
+
+[33mcommit a09bbcbb5f48bf87cc98335dd6e04c81e1f29220[m[33m ([m[1;31morigin/main_m2[m[33m)[m
+Author: Android Dev <jtavva@google.com>
+Date:   Wed Feb 22 11:13:54 2023 -0800
+
+    BOM updates (#16)
+
+[33mcommit cb20c9defa4f5f875968ad1ce976db21044cd9f7[m
+Merge: ba8c72b fa475d5
+Author: SagarBegale <32259107+SagarBegale@users.noreply.github.com>
+Date:   Tue Dec 20 11:48:56 2022 +0800
+
+    Merge pull request #1 from google-developer-training/update-readme-formatting
+    
+    Update README.md
+
+[33mcommit fa475d5503089830cf704d2f057eaec2443ef9b8[m
+Author: SagarBegale <32259107+SagarBegale@users.noreply.github.com>
+Date:   Tue Dec 20 10:20:22 2022 +0800
+
+    Update README.md
+    
+    Update formatting for flow.
+
+[33mcommit ba8c72b36d54cb6396edae2062ba47b69ec6b736[m
+Author: Android Dev <jtavva@google.com>
+Date:   Mon Dec 19 14:44:31 2022 +0530
+
+    Update ItemDetailsViewModel.kt
+
+[33mcommit f322b31ac15e596f9b2dace843f1cadcb77c5ccf[m
+Author: Android Dev <jtavva@google.com>
+Date:   Mon Dec 19 13:06:34 2022 +0530
+
+    Update issue templates
+
+[33mcommit 8eb3d560da95639392e78ded8cec4fad92fa9888[m
+Author: Android Dev <jtavva@google.com>
+Date:   Mon Dec 19 13:02:55 2022 +0530
+
+    Delete ISSUE_TEMPLATE directory
+
+[33mcommit a07e390d81a4c6f44f3271c3924f7e368b1f1bb4[m
+Author: Android Dev <jtavva@google.com>
+Date:   Mon Dec 19 13:02:45 2022 +0530
+
+    Delete .github/ISSUE_TEMPLATE directory
+
+[33mcommit 4d032c0195599bc2574afa48e893f71d8de01c40[m
+Author: Android Dev <jtavva@google.com>
+Date:   Mon Dec 19 13:02:06 2022 +0530
+
+    Create persist_data_with_room.md
+
+[33mcommit eb80fc504dbabf7636321b5c95682b83d5eb9ff9[m
+Author: Android Dev <jtavva@google.com>
+Date:   Mon Dec 19 12:59:13 2022 +0530
+
+    Create read_and_update_data_using_room
+
+[33mcommit 32c0cd2b8f9c3bbaa9e66b6fd01968f3f85c8436[m
+Author: Android Dev <jtavva@google.com>
+Date:   Mon Dec 19 12:57:52 2022 +0530
+
+    Create persist_data_with_room.md
+    
+    Issue template for Persist data with Room
+
+[33mcommit 990bc76304836088cc6302b7e7dccf92debb6c7f[m
+Author: Sagar Begale <begalesagar@gmail.com>
+Date:   Fri Dec 16 20:35:19 2022 +0800
+
+    Solution code for Inventory app
